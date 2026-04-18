@@ -1,4 +1,5 @@
 # erp-gestao-escolar
+<img width="1390" height="1390" alt="Untitled (1)" src="https://github.com/user-attachments/assets/12d2f5d2-a309-4a6a-974b-b74b919ca50f" />
 
 -- =========================
 -- CRIAÇÃO DO BANCO
