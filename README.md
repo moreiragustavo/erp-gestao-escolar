@@ -134,10 +134,17 @@ O banco possui dois modelos:
 
 ## Integrantes
 
-| Nome | GitHub |
-|---|---|
-| Gustavo Moreira | [@moreiragustavo](http://github.com/moreiragustavo) |
-| Clóvis | — |
+| Nome |
+|---|
+| Eduardo Santana Silva | — |
+| Elias Augusto Segura | — |
+| Felipe Rocha Amorim | — |
+| Giovanni Araujo Campos  | — |
+| Gustavo Cavalcante Moreira | — |
+| Kauã Luka Sousa Fernandes  | — |
+| Victor Hugo dos Santos Oliveira | — |
+| João Pedro da Silva Costa | — |
+
 
 ---
 
